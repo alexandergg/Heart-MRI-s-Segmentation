@@ -1,13 +1,13 @@
 ---
-page_type: sample
 languages:
 - python
 products:
+- Azure Machine Learning Service
 - Tensorflow 2.0
 description: "Image segmentation TensorFlow model for Cardiac MRI's"
 ---
 
-![]()
+![sample_prediction](readme/sample_prediction.png)
 
 #  Image Segmentation Cardiac MRI's with Azure Machine Learning Service and TensorFlow 
 
